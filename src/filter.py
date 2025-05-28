@@ -22,8 +22,7 @@ else:
 
     # Lista de termos específicos
     termos_especificos = [
-        "Inclusão social",
-        "inclusão"
+        
     ]
 
     # Função para contar as ocorrências exatas de cada termo
